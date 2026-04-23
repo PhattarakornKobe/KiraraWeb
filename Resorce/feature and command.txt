@@ -1,0 +1,28 @@
+/help
+/ping เช็กว่าบอทออนไลน์ไหม
+/setchannel เปิดห้องนี้ให้บอทตอบแชต
+/unsetchannel ปิดห้องคุย
+/channels ดูรายการห้องคุย
+/teach สอนคำตอบเฉพาะเซิร์ฟเวอร์นี้
+/unteach ลบคำที่เคยสอน
+/teachlist ดูรายการคำที่สอน
+/rolepanel_edit เปิด draft พร้อม preview และปุ่มแก้
+/rolepanel_map เพิ่ม emoji -> role ให้ draft
+/rolepanel_unmap ลบ emoji จาก draft
+/rolepanel_drafts ดู draft ทั้งหมด
+/rolepanelsend ส่ง draft ลงห้องจริง
+/rolepanel_list ดู panel ที่ส่งแล้ว
+/rolepanel_remove ลบ emoji จาก panel ที่ส่งแล้ว
+/name ตั้งชื่อที่อยากให้บอทเรียก
+/bio ตั้งคำอธิบายตัวเอง
+/profile ดูโปรไฟล์ที่บอทจำไว้
+/choose ให้บอทช่วยเลือก
+/eightball ถามเล่น ๆ
+/rate ให้บอทให้คะแนน
+/mood ดูอารมณ์วันนี้ของบอท
+/idea ขอไอเดีย
+/dare รับภารกิจสนุก ๆ
+/compliment รับคำชม
+/topic สุ่มหัวข้อคุย
+/time ดูเวลา
+/reset ล้างข้อมูลของคุณ

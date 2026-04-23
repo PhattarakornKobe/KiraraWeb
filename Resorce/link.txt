@@ -1,0 +1,3 @@
+Support Link - https://discord.gg/mfUEApa59
+Invite Link - https://discord.com/oauth2/authorize?client_id=1496515010229178409&permissions=8&integration_type=0&scope=bot (ChatBot + Role System)
+invite Link - https://discord.com/oauth2/authorize?client_id=1496515010229178409&permissions=268565696&integration_type=0&scope=bot (ChatBotOnly)
