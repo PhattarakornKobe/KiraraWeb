@@ -1,0 +1,12 @@
+{
+  "name": "KiraraBot",
+  "short_name": "Kirara",
+  "icons": [
+    { "src": "Resorce/favicon-32.png", "sizes": "32x32", "type": "image/png" },
+    { "src": "Resorce/favicon-16.png", "sizes": "16x16", "type": "image/png" }
+  ],
+  "start_url": "./",
+  "display": "standalone",
+  "theme_color": "#ec4899",
+  "background_color": "#ffffff"
+}
